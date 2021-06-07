@@ -1,0 +1,21 @@
+.time {
+  background-color: peachpuff;
+  width: 200px;
+  height: 300px;
+  font-size: 27px;
+}
+
+.time i {
+  margin-top: 200px;
+  margin-left: 10px;
+}
+
+.time code {
+  font-size: 20px;
+}
+
+p {
+  margin-top: 7%;
+  font-size: 100px;
+}
+/*# sourceMappingURL=index.css.map */
